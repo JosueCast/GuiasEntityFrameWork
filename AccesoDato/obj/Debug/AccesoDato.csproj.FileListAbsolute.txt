@@ -1,0 +1,12 @@
+C:\Users\darks\Desktop\Guias\AccesoDato\bin\Debug\AccesoDato.dll.config
+C:\Users\darks\Desktop\Guias\AccesoDato\bin\Debug\AccesoDato.dll
+C:\Users\darks\Desktop\Guias\AccesoDato\bin\Debug\AccesoDato.pdb
+C:\Users\darks\Desktop\Guias\AccesoDato\bin\Debug\EntityFramework.dll
+C:\Users\darks\Desktop\Guias\AccesoDato\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\darks\Desktop\Guias\AccesoDato\bin\Debug\EntityFramework.xml
+C:\Users\darks\Desktop\Guias\AccesoDato\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\darks\Desktop\Guias\AccesoDato\obj\Debug\AccesoDato.csproj.AssemblyReference.cache
+C:\Users\darks\Desktop\Guias\AccesoDato\obj\Debug\AccesoDato.csproj.CoreCompileInputs.cache
+C:\Users\darks\Desktop\Guias\AccesoDato\obj\Debug\AccesoDato.csproj.CopyComplete
+C:\Users\darks\Desktop\Guias\AccesoDato\obj\Debug\AccesoDato.dll
+C:\Users\darks\Desktop\Guias\AccesoDato\obj\Debug\AccesoDato.pdb
