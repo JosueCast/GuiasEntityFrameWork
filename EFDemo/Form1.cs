@@ -43,5 +43,28 @@ namespace EFDemo
             }
             dgvCustomers.DataSource = listaCliente;
         }
+
+        private void btnInsertar_Click(object sender, EventArgs e)
+        {
+            var cliente = CrearCliente();
+            var resultado = cr.InsertarCliente(cliente);
+            MessageBox.Show($"Se inserto  {resultado}");
+
+        }
+
+        private Customers CrearCliente()
+        {
+            var cliente = new Customers
+            {
+                CustomerID = txtCustomersID.Text,
+                CompanyName = txtCompanyName.Text,
+                ContactName = txtContactName.Text,
+                ContactTitle = txtContactTittle.Text,
+                Address = txtAddres.Text,
+
+
+            };
+            return cliente;
+        }
     }
 }

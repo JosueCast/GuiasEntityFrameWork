@@ -21,6 +21,12 @@ namespace AccesoDato
             return context.Customers.Find(id);
         }
 
+        public int InsertarCliente(Customers customers)
+        {
+            context.Customers.Add(customers);
+            return context.SaveChanges();
+        }
+
 
     }
 }
