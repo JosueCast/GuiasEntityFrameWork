@@ -41,5 +41,18 @@ namespace AccesoDato
             return context.SaveChanges();
         }
 
+
+        public int DeleteCliente(string id)
+        {
+            var registro = ObtenerPorId(id);
+            if (registro != null)
+            {
+                context.Customers.Remove(registro);
+                return context.SaveChanges();
+            }
+            return 0;
+
+        }
+
     }
 }
